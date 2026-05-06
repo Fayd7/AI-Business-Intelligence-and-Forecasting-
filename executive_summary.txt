@@ -1,0 +1,6 @@
+
+Top Region:
+central generated the highest profit of 120789.20.
+
+Operational Risk:
+southeast asia has the highest shipping delay of 4.05.
